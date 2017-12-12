@@ -1,4 +1,4 @@
-# InFocus M680 DotOS-N
+# InFocus M680 XenonHD-N
 ==============
 
 This branch is device for building of the DotOS-N ROM. For more information about building the ROM, read our [build manual](manual).
@@ -30,6 +30,7 @@ Front Camera | 13MP, Int. 13MP
 
 
 ### Thanks to:
+ * TeamHorizon
  * LineageOS team
  * Deepflex
  * Team M.A.D
