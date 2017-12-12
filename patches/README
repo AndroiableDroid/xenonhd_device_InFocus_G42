@@ -1,0 +1,5 @@
+This is patch directory
+
+cd WORKING_DIR
+sh device/InFocus/G42/patches/install.sh
+sh device/InFocus/G42/patches/uninstall.sh
